@@ -1,1 +1,1 @@
-# html_project
+# Image-Gallery
