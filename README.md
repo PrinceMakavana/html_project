@@ -1,1 +1,2 @@
-# html_project
+# blurry_img
+https://princemakavana.github.io/blurry_img/
